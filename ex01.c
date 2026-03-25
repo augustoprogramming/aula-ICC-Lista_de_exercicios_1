@@ -10,7 +10,7 @@ int main (){
     area = lado*lado;
 
 
-    printf("A area do quadrado eh de: %d metros quadrados", area);
+    printf("A area do quadrado eh de: %d metros quadrados\n", area);
 
 
     return 0;
